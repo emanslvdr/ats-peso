@@ -1,0 +1,14 @@
+# Core NLP and file processing
+PyPDF2==3.0.1
+python-docx==1.1.0
+transformers==4.40.0
+torch==2.3.0
+sentence-transformers==2.7.0
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# PostgreSQL
+psycopg2-binary==2.9.9
+
+# Utility
+tqdm==4.66.4
